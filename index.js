@@ -14,7 +14,6 @@ const employee= {
 
 
 
-
  function destructivelyUpdateEmployeeWithKeyAndValue(employee,key,value) {
      employee.streetAddress="12 Broadway"
     return employee
